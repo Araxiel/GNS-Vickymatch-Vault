@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dedec9e720f7ba7",
+        "id": "0ea11e3ff5fcab9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7c893048ac1541",
+            "id": "3d7c443b9172a0fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -167,7 +168,7 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9f7c893048ac1541",
+  "active": "3d7c443b9172a0fd",
   "lastOpenFiles": [
     "Welcome.md",
     "New Note.md",
