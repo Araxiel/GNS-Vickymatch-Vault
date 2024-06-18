@@ -1,1 +1,1 @@
-This is an still empty vault
+This is an still empty vault\
