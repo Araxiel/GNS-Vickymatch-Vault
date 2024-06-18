@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1528c5434dbaeaca",
+        "id": "0dedec9e720f7ba7",
         "type": "tabs",
         "children": [
           {
-            "id": "08504930f4518164",
+            "id": "9f7c893048ac1541",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           },
           {
@@ -89,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,6 +141,14 @@
                 "searchQuery": ""
               }
             }
+          },
+          {
+            "id": "8c368adb4c2352e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -146,16 +163,15 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "08504930f4518164",
+  "active": "9f7c893048ac1541",
   "lastOpenFiles": [
+    "Welcome.md",
     "New Note.md",
     "Vault Info/Templates",
-    "Vault Info",
-    "Welcome.md"
+    "Vault Info"
   ]
 }
